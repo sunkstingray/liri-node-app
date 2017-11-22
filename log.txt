@@ -1,31 +1,3 @@
-
-C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,my-tweets
-HERE ARE YOUR TWEETS -->
-Tue Nov 21 21:35:36 +0000 2017  RT @VICE: 61-year-old limo driver "Mad" Mike Hughes is planning to use a homemade, steam-powered rocket to prove the Earth is flat. https:/…
-Tue Nov 21 21:31:46 +0000 2017  Best tweet EVER!
-Tue Nov 21 21:28:23 +0000 2017  RT @TwitterMoments: FCC Commissioner Ajit Pai is pushing to gut the #NetNeutrality regulations of the Obama administration. https://t.co/DS…
-Tue Nov 21 21:33:05 +0000 2017  ⚡️ “This man stuffed 459 straws into his mouth, setting a new world record”
-
-https://t.co/la0qt8lhwI
-Mon Nov 20 15:20:59 +0000 2017  RT @BillNye: I frequently make time for science. https://t.co/uRCMYJGM6F
-Mon Nov 20 15:19:02 +0000 2017  RT @neiltyson: I still think there should be a dinosaur named the Thesaurus.  And I imagine Thesaurus Rex would be badass with wordplay.
-Tue Nov 21 21:31:57 +0000 2017  Node.js rocks!
-Mon Nov 20 15:15:27 +0000 2017  RT @elonmusk: Tesla Semi https://t.co/7VLz7F46Ji
-
-C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in blackSong Name: Back In BlackAlbum Name: Back In BlackSong Preview URL: https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=c50cfc09f6da4c419892b041ecdbd6a8
-Artist Name: AC/DC
-C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,movie-this,star wars
-Title: Star Wars: Episode IV - A New HopeRotten Tomatoes:  93%Metacritic:  92/100
-Country: USA
-Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
-Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
-Year: 1977Internet Movie Database:  8.7/10
-Language: English
-C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in black
-Artist Name: AC/DC
-Song Name: Back In Black
-Album Name: Back In Black
-Song Preview URL: https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=c50cfc09f6da4c419892b041ecdbd6a8
  
 C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in black
 Song Name: Back In Black
@@ -53,3 +25,31 @@ Tue Nov 21 21:31:57 +0000 2017  Node.js rocks!
 Mon Nov 20 15:20:59 +0000 2017  RT @BillNye: I frequently make time for science. https://t.co/uRCMYJGM6F
 Mon Nov 20 15:19:02 +0000 2017  RT @neiltyson: I still think there should be a dinosaur named the Thesaurus.  And I imagine Thesaurus Rex would be badass with wordplay.
 Mon Nov 20 15:15:27 +0000 2017  RT @elonmusk: Tesla Semi https://t.co/7VLz7F46Ji
+
+ 
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,my-tweets
+HERE ARE YOUR TWEETS -->
+Wed Nov 22 00:37:39 +0000 2017  Tweet #20
+Wed Nov 22 00:39:00 +0000 2017  RT @taylorswift13: This week has been unforgettable. I love you guys. Thanks a million 😉 https://t.co/qjspCA7NJ7
+Wed Nov 22 00:35:45 +0000 2017  RT @FLOTUS: Congratulations to Drumstick on the pardon from @Potus ! We loved having you &amp; Wishbone at the @WhiteHouse. https://t.co/4KGKOV…
+Wed Nov 22 00:34:57 +0000 2017  RT @imdaveraccoon: i snuck into a house to eat turkey, but they shooed me out. makes sense because im a raccoon. #thanksgivingfails
+Wed Nov 22 00:32:00 +0000 2017  Tweeting is really hard.
+Wed Nov 22 00:32:18 +0000 2017  Now I appreciate what a hard job Trump has.
+Wed Nov 22 00:31:43 +0000 2017  Not sure what else to say...
+Wed Nov 22 00:31:06 +0000 2017  I'm not sure what to say...
+Wed Nov 22 00:29:22 +0000 2017  This is a tweet.
+Wed Nov 22 00:27:25 +0000 2017  RT @sjredmond: Do you think the native Americans should have built a wall to keep the pilgrims out? #StupidQuestionsForPOTUS
+Wed Nov 22 00:22:31 +0000 2017  ⚡️ “Brussels sprouts sliders are causing a stink”
+
+https://t.co/wO8CN8yBZJ
+Tue Nov 21 21:35:36 +0000 2017  RT @VICE: 61-year-old limo driver "Mad" Mike Hughes is planning to use a homemade, steam-powered rocket to prove the Earth is flat. https:/…
+Wed Nov 22 00:29:38 +0000 2017  Here is another tweet.
+Tue Nov 21 21:33:05 +0000 2017  ⚡️ “This man stuffed 459 straws into his mouth, setting a new world record”
+
+https://t.co/la0qt8lhwI
+Wed Nov 22 00:37:25 +0000 2017  Tweet #19
+Tue Nov 21 21:31:46 +0000 2017  Best tweet EVER!
+Tue Nov 21 21:28:23 +0000 2017  RT @TwitterMoments: FCC Commissioner Ajit Pai is pushing to gut the #NetNeutrality regulations of the Obama administration. https://t.co/DS…
+Mon Nov 20 15:20:59 +0000 2017  RT @BillNye: I frequently make time for science. https://t.co/uRCMYJGM6F
+Tue Nov 21 21:31:57 +0000 2017  Node.js rocks!
+Mon Nov 20 15:19:02 +0000 2017  RT @neiltyson: I still think there should be a dinosaur named the Thesaurus.  And I imagine Thesaurus Rex would be badass with wordplay.
