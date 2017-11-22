@@ -1,0 +1,55 @@
+
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,my-tweets
+HERE ARE YOUR TWEETS -->
+Tue Nov 21 21:35:36 +0000 2017  RT @VICE: 61-year-old limo driver "Mad" Mike Hughes is planning to use a homemade, steam-powered rocket to prove the Earth is flat. https:/…
+Tue Nov 21 21:31:46 +0000 2017  Best tweet EVER!
+Tue Nov 21 21:28:23 +0000 2017  RT @TwitterMoments: FCC Commissioner Ajit Pai is pushing to gut the #NetNeutrality regulations of the Obama administration. https://t.co/DS…
+Tue Nov 21 21:33:05 +0000 2017  ⚡️ “This man stuffed 459 straws into his mouth, setting a new world record”
+
+https://t.co/la0qt8lhwI
+Mon Nov 20 15:20:59 +0000 2017  RT @BillNye: I frequently make time for science. https://t.co/uRCMYJGM6F
+Mon Nov 20 15:19:02 +0000 2017  RT @neiltyson: I still think there should be a dinosaur named the Thesaurus.  And I imagine Thesaurus Rex would be badass with wordplay.
+Tue Nov 21 21:31:57 +0000 2017  Node.js rocks!
+Mon Nov 20 15:15:27 +0000 2017  RT @elonmusk: Tesla Semi https://t.co/7VLz7F46Ji
+
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in blackSong Name: Back In BlackAlbum Name: Back In BlackSong Preview URL: https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=c50cfc09f6da4c419892b041ecdbd6a8
+Artist Name: AC/DC
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,movie-this,star wars
+Title: Star Wars: Episode IV - A New HopeRotten Tomatoes:  93%Metacritic:  92/100
+Country: USA
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Year: 1977Internet Movie Database:  8.7/10
+Language: English
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in black
+Artist Name: AC/DC
+Song Name: Back In Black
+Album Name: Back In Black
+Song Preview URL: https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=c50cfc09f6da4c419892b041ecdbd6a8
+ 
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,spotify-this-song,back in black
+Song Name: Back In Black
+Album Name: Back In Black
+Song Preview URL: https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=c50cfc09f6da4c419892b041ecdbd6a8
+Artist Name: AC/DC
+ 
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,movie-this,star wars
+Year: 1977
+Title: Star Wars: Episode IV - A New HopeMetacritic:  92/100
+Country: USA
+Language: EnglishInternet Movie Database:  8.7/10
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.Rotten Tomatoes:  93%
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+ 
+C:\Program Files\nodejs\node.exe,C:\Users\Chris Lynam\projects\liri-node-app\liri,my-tweets
+HERE ARE YOUR TWEETS -->
+Tue Nov 21 21:33:05 +0000 2017  ⚡️ “This man stuffed 459 straws into his mouth, setting a new world record”
+
+https://t.co/la0qt8lhwI
+Tue Nov 21 21:35:36 +0000 2017  RT @VICE: 61-year-old limo driver "Mad" Mike Hughes is planning to use a homemade, steam-powered rocket to prove the Earth is flat. https:/…
+Tue Nov 21 21:31:46 +0000 2017  Best tweet EVER!
+Tue Nov 21 21:28:23 +0000 2017  RT @TwitterMoments: FCC Commissioner Ajit Pai is pushing to gut the #NetNeutrality regulations of the Obama administration. https://t.co/DS…
+Tue Nov 21 21:31:57 +0000 2017  Node.js rocks!
+Mon Nov 20 15:20:59 +0000 2017  RT @BillNye: I frequently make time for science. https://t.co/uRCMYJGM6F
+Mon Nov 20 15:19:02 +0000 2017  RT @neiltyson: I still think there should be a dinosaur named the Thesaurus.  And I imagine Thesaurus Rex would be badass with wordplay.
+Mon Nov 20 15:15:27 +0000 2017  RT @elonmusk: Tesla Semi https://t.co/7VLz7F46Ji

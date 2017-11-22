@@ -8,6 +8,8 @@ var fs = require('fs');
 var liriCommands = process.argv[2];
 var songMovie = process.argv[3];
 
+writeFile("\n \n" + process.argv);
+
 commandSwitch(liriCommands,songMovie);
 
 function commandSwitch(liriCommands,songMovie) {
@@ -49,9 +51,11 @@ function myTweets() {
 	client.get('statuses/user_timeline', params, function(error, tweets, response) {
 	  if (!error) {
 	    console.log("\nHERE ARE YOUR TWEETS -->\n");
+	    writeFile("\nHERE ARE YOUR TWEETS -->\n");
 
 	    for (var i = 0; i < tweets.length; i++) {
 	    	console.log(tweets[i].created_at + "  " + tweets[i].text);
+	    	writeFile(tweets[i].created_at + "  " + tweets[i].text + "\n");
 	    }
 	  }
 	});
@@ -73,6 +77,11 @@ function spotifyThisSong(song) {
 	console.log("Song Preview URL: " + data.tracks.items[0].preview_url);
 	console.log("Album Name: " + data.tracks.items[0].album.name);
 
+	writeFile("\nArtist Name: " + data.tracks.items[0].album.artists[0].name);
+	writeFile("\nSong Name: " + data.tracks.items[0].name);
+	writeFile("\nSong Preview URL: " + data.tracks.items[0].preview_url);
+	writeFile("\nAlbum Name: " + data.tracks.items[0].album.name);
+
 	});
 }
 
@@ -85,16 +94,27 @@ function movieThis(movie) {
 	  }
 	  //console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
 	  var movieInfo = JSON.parse(body);
+
 	  console.log("\nTitle: " + movieInfo.Title);
+	  writeFile("\nTitle: " + movieInfo.Title);
+
 	  console.log("Year: " + movieInfo.Year);
+	  writeFile("\nYear: " + movieInfo.Year);
+
 	  //console.log("Ratings: " + JSON.stringify(movieInfo.Ratings));
 	  for (var i = 0; i < movieInfo.Ratings.length; i++) {
 	  	console.log(movieInfo.Ratings[i].Source + ":  " + movieInfo.Ratings[i].Value);
+	  	writeFile(movieInfo.Ratings[i].Source + ":  " + movieInfo.Ratings[i].Value);
 	  }
+
 	  console.log("Country: " + movieInfo.Country);
+	  writeFile("\nCountry: " + movieInfo.Country);
 	  console.log("Language: " + movieInfo.Language);
+	  writeFile("\nLanguage: " + movieInfo.Language);
 	  console.log("Plot: " + movieInfo.Plot);
+	  writeFile("\nPlot: " + movieInfo.Plot);
 	  console.log("Actors: " + movieInfo.Actors);
+	  writeFile("\nActors: " + movieInfo.Actors);
 	});
 }
 
@@ -106,4 +126,18 @@ function doWhatItSays() {
 		commandSwitch(dataArray[0],dataArray[1]);
 
 	  });
+}
+
+function writeFile(textToWrite) {
+	fs.appendFile("log.txt", textToWrite, function(err) {
+
+	  if (err) {
+	    console.log(err);
+	  }
+
+	  // else {
+	  //   console.log("\nContent Added to Log File!");
+	  // }
+
+	});
 }
